@@ -6,9 +6,8 @@ public class HelloWorld {
 		System.out.println("hello");
 		
 		System.out.println("Programmer 2 did this");
-		
-		System.out.println("Programmer ne did this");
 
+		System.out.println("Programmer1 did this");
 	}
 
 }
